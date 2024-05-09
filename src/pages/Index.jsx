@@ -1,9 +1,9 @@
 import { Box, Container, Flex, Heading, Text, VStack, Link, IconButton, Image } from "@chakra-ui/react";
 import { FaCode, FaTools, FaCheckCircle, FaLink } from "react-icons/fa";
-import CodeSourcingImg from '../images/code-sourcing.png';
-import ModificationImg from '../images/modification.png';
-import CompatibilityChecksImg from '../images/compatibility-checks.png';
-import IntegrationImg from '../images/integration.png';
+import CodeSourcingImg from '../../public/images/code-sourcing.png';
+import ModificationImg from '../../public/images/modification.png';
+import CompatibilityChecksImg from '../../public/images/compatibility-checks.png';
+import IntegrationImg from '../../public/images/integration.png';
 
 const Index = () => {
   return (
